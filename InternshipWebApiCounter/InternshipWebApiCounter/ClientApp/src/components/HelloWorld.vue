@@ -12,7 +12,7 @@ export default {
   data() {
     return {
       counter: 0,
-      urlBase: 'https://internshipwebapicounter.azurewebsites.net'
+      urlBase: 'https://internshipwebapicounter.azurewebsites.net/api'
     };
   },
   created: function() {
